@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains the design, functional engineering script, and algorithmic workspace detailing an automated telemetry engineering pipeline. Built to interface with the **RMS-01 Wind Turbine Gearbox Vibration dataset**, this software solution moves away from inefficient manual calculations to perform high-speed operational data cleaning, localized data masking, vector analytics, and graphic stability tracking.
+This repository contains the design, functional engineering script, and algorithmic workspace detailing an automated telemetry engineering pipeline. Built to interface with the **AIMPM-01 Wind Turbine Gearbox Vibration dataset**, this software solution moves away from inefficient manual calculations to perform high-speed operational data cleaning, localized data masking, vector analytics, and graphic stability tracking.
 
 ## 🏗️ System Architecture
 The framework is engineered using an **Object-Oriented Programming (OOP)** approach to insulate logic execution phases into a single unified workspace pipeline.
